@@ -1,2 +1,2 @@
 # JATIS
-Ansys Zemax OpticStudio Lens files (ZMX) for the Classic and Cassegrain Designs
+Ansys Zemax OpticStudio 2023 R1.02 Lens files (ZMX and ZDA) for the source codes of the Classic and Cassegrain Designs presented in the JATIS paper.
